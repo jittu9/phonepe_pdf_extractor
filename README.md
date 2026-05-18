@@ -45,7 +45,6 @@ phonepe-pdf-extractor/
 ├── README.md
 ├── requirements.txt
 ├── phonepe_data_extractor.py
-└── sample_output.csv
 ```
 
 ---
@@ -146,41 +145,7 @@ May 12, 2026,07:45 pm,1122334455,TXN54321,Swiggy,SBI Bank,DEBIT,350
 
 ---
 
-# .gitignore
 
-```gitignore
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-.env
-venv/
-.env/
-.idea/
-.vscode/
-*.csv
-```
 
----
 
-# Suggested GitHub Repo Description
-
-```text
-Python utility to extract and structure PhonePe PDF transaction statements using pdfplumber and regex.
-```
-
----
-
-# Suggested GitHub Topics
-
-```text
-python
-pdf-parser
-phonepe
-transaction-extractor
-pdfplumber
-regex
-fintech
-pandas
-```
 
