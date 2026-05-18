@@ -49,22 +49,6 @@ phonepe-pdf-extractor/
 
 ---
 
-## Installation
-
-### 1. Clone Repository
-
-```bash
-git clone https://github.com/your-username/phonepe-pdf-extractor.git
-cd phonepe-pdf-extractor
-```
-
-### 2. Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
----
 
 ## Usage
 
